@@ -1,0 +1,3 @@
+pbr
+docutils
+git+https://github.com/Matt9993/hera-workflows.git@feat-workflow-visualize
